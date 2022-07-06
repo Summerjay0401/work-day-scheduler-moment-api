@@ -6,11 +6,11 @@ body {
 
 h1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #7f5539;
+  color: #6d6b6a;
 }
 
 p {
-  color: #aa9183;
+  color: #917b6a;
 }
 
 textarea {
@@ -27,7 +27,7 @@ textarea {
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 10px solid #aa9183;
 }
 
 .description {
@@ -62,12 +62,12 @@ textarea {
 }
 
 .future {
-  background-color: #ba9785;
+  background-color: #b98a78;
   color: white;
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border-left: 2px solid gray;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #aa9183;
